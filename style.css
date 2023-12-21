@@ -6,7 +6,7 @@
 }
 body{
 	background:#1A2129;
-	background-image:url(PERSONAL-WEBSITE/gelap.png);
+	background-image:url(personal-website/gelap.png);
 	color:#fff;
 	
 }
@@ -14,7 +14,7 @@ body{
 #header{
 	width:100%;
 	height:100vh;
-	background-image:url(PERSONAL-WEBSITE/BACKGROUND.JPG);
+	background-image:url(personal-website/BACKGROUND.JPG);
 	background-size:cover;
 	background-position:left;
 	font-weight:bold;
